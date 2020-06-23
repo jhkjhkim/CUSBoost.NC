@@ -1,0 +1,10 @@
+optical_digits,adaboost_auc,0.999679576,7.74E-05,"{'depth': 4, 'n_estimators': 450}"
+optical_digits,adaboost_nc_auc,0.999760741,6.63E-05,"{'depth': 8, 'n_estimators': 450, 'lambda_': 0.75}"
+optical_digits,cusboost_auc,0.999461755,0.00012037,"{'depth': 8, 'n_estimators': 450, 'number_of_clusters': 45, 'percentage_to_choose_from_each_cluster': 0.8}"
+optical_digits,cusboost_nc_auc,0.999157484,0.000411542,"{'depth': 4, 'n_estimators': 450, 'number_of_clusters': 45, 'percentage_to_choose_from_each_cluster': 0.5, 'lambda_': 0.25}"
+optical_digits,rusboost_nc_auc,0.999090237,0.000126558,"{'depth': 8, 'n_estimators': 450}"
+,,,,
+0.999679576,0.999760741,0.999461755,0.999157484,0.999090237
+7.74E-05,6.63E-05,0.00012037,0.000411542,0.000126558
+,,,,
+"{'depth': 4, 'n_estimators': 450}","{'depth': 8, 'n_estimators': 450, 'lambda_': 0.75}","{'depth': 8, 'n_estimators': 450, 'number_of_clusters': 45, 'percentage_to_choose_from_each_cluster': 0.8}","{'depth': 4, 'n_estimators': 450, 'number_of_clusters': 45, 'percentage_to_choose_from_each_cluster': 0.5, 'lambda_': 0.25}","{'depth': 8, 'n_estimators': 450}"

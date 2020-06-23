@@ -1,0 +1,10 @@
+scene,adaboost_auc,0.772927041,0.00741605,"{'depth': 4, 'n_estimators': 150}"
+scene,adaboost_nc_auc,0.744018364,0.006047887,"{'depth': 8, 'n_estimators': 450, 'lambda_': 0.25}"
+scene,cusboost_auc,0.747845968,0.01496081,"{'depth': 8, 'n_estimators': 450, 'number_of_clusters': 5, 'percentage_to_choose_from_each_cluster': 0.5}"
+scene,cusboost_nc_auc,0.759267279,0.014611643,"{'depth': 8, 'n_estimators': 450, 'number_of_clusters': 45, 'percentage_to_choose_from_each_cluster': 0.5, 'lambda_': 0.25}"
+scene,rusboost_nc_auc,0.643533739,0.018102279,"{'depth': 2, 'n_estimators': 150}"
+,,,,
+0.772927041,0.744018364,0.747845968,0.759267279,0.643533739
+0.00741605,0.006047887,0.01496081,0.014611643,0.018102279
+,,,,
+"{'depth': 4, 'n_estimators': 150}","{'depth': 8, 'n_estimators': 450, 'lambda_': 0.25}","{'depth': 8, 'n_estimators': 450, 'number_of_clusters': 5, 'percentage_to_choose_from_each_cluster': 0.5}","{'depth': 8, 'n_estimators': 450, 'number_of_clusters': 45, 'percentage_to_choose_from_each_cluster': 0.5, 'lambda_': 0.25}","{'depth': 2, 'n_estimators': 150}"

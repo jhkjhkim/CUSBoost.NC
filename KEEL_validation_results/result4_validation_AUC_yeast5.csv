@@ -1,0 +1,7 @@
+yeast5,adaboost_auc,0.988449074,0.004132868,"{'depth': 4, 'n_estimators': 450}"
+yeast5,adaboost_nc_auc,0.980424383,0.009570685,"{'depth': 4, 'n_estimators': 32, 'lambda_': 2.25}"
+yeast5,cusboost_auc,0.978294753,0.010459769,"{'depth': 8, 'n_estimators': 150, 'number_of_clusters': 15, 'percentage_to_choose_from_each_cluster': 0.2}"
+yeast5,cusboost_nc_auc,0.988896605,0.001489909,"{'depth': 4, 'n_estimators': 32, 'number_of_clusters': 15, 'percentage_to_choose_from_each_cluster': 0.2, 'lambda_': 0.75}"
+yeast5,rusboost_nc_auc,0.973661265,0.011363057,"{'depth': 8, 'n_estimators': 32}"
+,,,,
+"{'depth': 4, 'n_estimators': 450}","{'depth': 4, 'n_estimators': 32, 'lambda_': 2.25}","{'depth': 8, 'n_estimators': 150, 'number_of_clusters': 15, 'percentage_to_choose_from_each_cluster': 0.2}","{'depth': 4, 'n_estimators': 32, 'number_of_clusters': 15, 'percentage_to_choose_from_each_cluster': 0.2, 'lambda_': 0.75}","{'depth': 8, 'n_estimators': 32}"

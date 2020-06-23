@@ -1,0 +1,5 @@
+poker-9_vs_7,adaboost_auc,0.5,0.0,"{'depth': 8, 'n_estimators': 50}"
+poker-9_vs_7,adaboost_nc_auc,0.5,0.0,"{'depth': 8, 'n_estimators': 50, 'lambda_': 0.25}"
+poker-9_vs_7,cusboost_auc,0.9010416666666666,0.16340670297972393,"{'depth': 8, 'n_estimators': 50, 'number_of_clusters': 5, 'percentage_to_choose_from_each_cluster': 0.25}"
+poker-9_vs_7,cusboost_nc_auc,0.5711805555555555,0.20893287574328276,"{'depth': 8, 'n_estimators': 50, 'number_of_clusters': 15, 'percentage_to_choose_from_each_cluster': 0.25, 'lambda_': 0.25}"
+poker-9_vs_7,rusboost_nc_auc,0.814236111111111,0.25427360948383587,"{'depth': 8, 'n_estimators': 450}"

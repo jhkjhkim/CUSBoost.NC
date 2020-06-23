@@ -1,0 +1,5 @@
+led7digit-0-2-4-5-6-7-8-9_vs_1,adaboost_auc,0.9134687034277199,0.057127541553052094,"{'depth': 8, 'n_estimators': 450}"
+led7digit-0-2-4-5-6-7-8-9_vs_1,adaboost_nc_auc,0.886456780923994,0.04437231277207,"{'depth': 8, 'n_estimators': 50, 'lambda_': 0.25}"
+led7digit-0-2-4-5-6-7-8-9_vs_1,cusboost_auc,0.9038748137108794,0.05719470415581004,"{'depth': 8, 'n_estimators': 50, 'number_of_clusters': 15, 'percentage_to_choose_from_each_cluster': 0.09}"
+led7digit-0-2-4-5-6-7-8-9_vs_1,cusboost_nc_auc,0.86298435171386,0.048130688455166826,"{'depth': 8, 'n_estimators': 150, 'number_of_clusters': 5, 'percentage_to_choose_from_each_cluster': 0.75, 'lambda_': 6.75}"
+led7digit-0-2-4-5-6-7-8-9_vs_1,rusboost_nc_auc,0.9064828614008942,0.04816285363976761,"{'depth': 8, 'n_estimators': 150}"

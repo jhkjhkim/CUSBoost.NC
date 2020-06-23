@@ -1,0 +1,10 @@
+pen_digits,adaboost_auc,0.999908622,1.56E-05,"{'depth': 8, 'n_estimators': 450}"
+pen_digits,adaboost_nc_auc,0.999895075,8.58E-06,"{'depth': 8, 'n_estimators': 150, 'lambda_': 0.25}"
+pen_digits,cusboost_auc,0.999897368,1.32E-05,"{'depth': 8, 'n_estimators': 150, 'number_of_clusters': 15, 'percentage_to_choose_from_each_cluster': 0.5}"
+pen_digits,cusboost_nc_auc,0.999874189,4.74E-05,"{'depth': 4, 'n_estimators': 450, 'number_of_clusters': 15, 'percentage_to_choose_from_each_cluster': 0.8, 'lambda_': 0.25}"
+pen_digits,rusboost_nc_auc,0.999792446,5.34E-05,"{'depth': 4, 'n_estimators': 150}"
+,,,,
+0.999908622,0.999895075,0.999897368,0.999874189,0.999792446
+1.56E-05,8.58E-06,1.32E-05,4.74E-05,5.34E-05
+,,,,
+"{'depth': 8, 'n_estimators': 450}","{'depth': 8, 'n_estimators': 150, 'lambda_': 0.25}","{'depth': 8, 'n_estimators': 150, 'number_of_clusters': 15, 'percentage_to_choose_from_each_cluster': 0.5}","{'depth': 4, 'n_estimators': 450, 'number_of_clusters': 15, 'percentage_to_choose_from_each_cluster': 0.8, 'lambda_': 0.25}","{'depth': 4, 'n_estimators': 150}"

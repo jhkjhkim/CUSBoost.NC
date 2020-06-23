@@ -1,0 +1,10 @@
+pen_digits,32,20,current_mean_Adaboost_auc,0.5
+pen_digits,32,20,current_mean_AdaboostNC_lambda2_auc,nan
+pen_digits,32,20,current_mean_AdaboostNC_lambda5_auc,nan
+pen_digits,32,20,current_mean_AdaboostNC_lambda8_auc,nan
+pen_digits,32,20,current_mean_AdaboostNC_lambda11_auc,0.5
+pen_digits,32,20,current_mean_CUSboost_auc,0.9994736487196336
+pen_digits,32,20,current_mean_CUSboostNC_lambda2_auc,nan
+pen_digits,32,20,current_mean_CUSboostNC_lambda5_auc,nan
+pen_digits,32,20,current_mean_CUSboostNC_lambda8_auc,nan
+pen_digits,32,20,current_mean_CUSboostNC_lambda11_auc,0.9694992621300471

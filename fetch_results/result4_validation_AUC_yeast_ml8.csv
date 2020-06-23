@@ -1,0 +1,8 @@
+yeast_ml8,adaboost_auc,0.595177187,0.006778937,"{'depth': 8, 'n_estimators': 450}"
+yeast_ml8,adaboost_nc_auc,0.590193589,0.021425697,"{'depth': 8, 'n_estimators': 150, 'lambda_': 6.75}"
+yeast_ml8,cusboost_auc,0.556841769,0.010284209,"{'depth': 4, 'n_estimators': 150, 'number_of_clusters': 15, 'percentage_to_choose_from_each_cluster': 0.5}"
+yeast_ml8,cusboost_nc_auc,0.584257645,0.026419213,"{'depth': 8, 'n_estimators': 150, 'number_of_clusters': 45, 'percentage_to_choose_from_each_cluster': 0.8, 'lambda_': 0.25}"
+yeast_ml8,rusboost_nc_auc,0.492329685,0.026974785,"{'depth': 4, 'n_estimators': 50}"
+,,,,
+0.595177187,0.590193589,0.556841769,0.584257645,0.492329685
+0.006778937,0.021425697,0.010284209,0.026419213,0.026974785

@@ -1,0 +1,10 @@
+ecoli,32,20,current_mean_Adaboost_auc,0.5
+ecoli,32,20,current_mean_AdaboostNC_lambda2_auc,nan
+ecoli,32,20,current_mean_AdaboostNC_lambda5_auc,nan
+ecoli,32,20,current_mean_AdaboostNC_lambda8_auc,nan
+ecoli,32,20,current_mean_AdaboostNC_lambda11_auc,0.5
+ecoli,32,20,current_mean_CUSboost_auc,0.9175761124121781
+ecoli,32,20,current_mean_CUSboostNC_lambda2_auc,nan
+ecoli,32,20,current_mean_CUSboostNC_lambda5_auc,nan
+ecoli,32,20,current_mean_CUSboostNC_lambda8_auc,nan
+ecoli,32,20,current_mean_CUSboostNC_lambda11_auc,0.7737556596409055

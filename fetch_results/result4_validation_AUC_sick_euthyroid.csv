@@ -1,0 +1,11 @@
+sick_euthyroid,adaboost_auc,0.982398683,0.002069965,"{'depth': 8, 'n_estimators': 50}"
+sick_euthyroid,adaboost_nc_auc,0.981220001,0.003058252,"{'depth': 8, 'n_estimators': 50, 'lambda_': 0.25}"
+sick_euthyroid,cusboost_auc,0.966336301,0.004076385,"{'depth': 2, 'n_estimators': 450, 'number_of_clusters': 5, 'percentage_to_choose_from_each_cluster': 0.5}"
+sick_euthyroid,cusboost_nc_auc,0.977177212,0.003923602,"{'depth': 4, 'n_estimators': 150, 'number_of_clusters': 15, 'percentage_to_choose_from_each_cluster': 0.8, 'lambda_': 0.25}"
+sick_euthyroid,rusboost_nc_auc,0.971217007,0.002720588,"{'depth': 4, 'n_estimators': 50}"
+,,,,
+,,,,
+0.982398683,0.981220001,0.966336301,0.977177212,0.971217007
+0.002069965,0.003058252,0.004076385,0.003923602,0.002720588
+,,,,
+"{'depth': 8, 'n_estimators': 50}","{'depth': 8, 'n_estimators': 50, 'lambda_': 0.25}","{'depth': 2, 'n_estimators': 450, 'number_of_clusters': 5, 'percentage_to_choose_from_each_cluster': 0.5}","{'depth': 4, 'n_estimators': 150, 'number_of_clusters': 15, 'percentage_to_choose_from_each_cluster': 0.8, 'lambda_': 0.25}","{'depth': 4, 'n_estimators': 50}"

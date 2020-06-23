@@ -1,0 +1,5 @@
+pima,adaboost_auc,0.7015637860082304,0.027779881036057028,"{'depth': 8, 'n_estimators': 50}"
+pima,adaboost_nc_auc,0.6123251028806584,0.04815181038444592,"{'depth': 8, 'n_estimators': 150, 'lambda_': 0.25}"
+pima,cusboost_auc,0.6956584362139918,0.02547118169726303,"{'depth': 8, 'n_estimators': 450, 'number_of_clusters': 5, 'percentage_to_choose_from_each_cluster': 0.25}"
+pima,cusboost_nc_auc,0.6055349794238682,0.03336360587459141,"{'depth': 8, 'n_estimators': 150, 'number_of_clusters': 45, 'percentage_to_choose_from_each_cluster': 0.5, 'lambda_': 0.75}"
+pima,rusboost_nc_auc,0.7029423868312757,0.03310532059487224,"{'depth': 8, 'n_estimators': 450}"

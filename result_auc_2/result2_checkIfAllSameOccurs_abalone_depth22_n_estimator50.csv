@@ -1,0 +1,10 @@
+abalone,22,50,current_mean_Adaboost_auc,0.6495768328968593
+abalone,22,50,current_mean_AdaboostNC_lambda2_auc,nan
+abalone,22,50,current_mean_AdaboostNC_lambda5_auc,nan
+abalone,22,50,current_mean_AdaboostNC_lambda8_auc,nan
+abalone,22,50,current_mean_AdaboostNC_lambda11_auc,0.6218943081200635
+abalone,22,50,current_mean_CUSboost_auc,0.815981826549298
+abalone,22,50,current_mean_CUSboostNC_lambda2_auc,nan
+abalone,22,50,current_mean_CUSboostNC_lambda5_auc,nan
+abalone,22,50,current_mean_CUSboostNC_lambda8_auc,nan
+abalone,22,50,current_mean_CUSboostNC_lambda11_auc,0.6354911182895036

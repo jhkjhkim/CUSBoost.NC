@@ -1,0 +1,10 @@
+sick_euthyroid,12,80,current_mean_Adaboost_auc,0.7732356936160161
+sick_euthyroid,12,80,current_mean_AdaboostNC_lambda2_auc,nan
+sick_euthyroid,12,80,current_mean_AdaboostNC_lambda5_auc,nan
+sick_euthyroid,12,80,current_mean_AdaboostNC_lambda8_auc,nan
+sick_euthyroid,12,80,current_mean_AdaboostNC_lambda11_auc,0.7221425618614539
+sick_euthyroid,12,80,current_mean_CUSboost_auc,0.9545126634993494
+sick_euthyroid,12,80,current_mean_CUSboostNC_lambda2_auc,nan
+sick_euthyroid,12,80,current_mean_CUSboostNC_lambda5_auc,nan
+sick_euthyroid,12,80,current_mean_CUSboostNC_lambda8_auc,nan
+sick_euthyroid,12,80,current_mean_CUSboostNC_lambda11_auc,0.8880172057418997

@@ -1,0 +1,10 @@
+yeast_ml8,2,30,current_mean_Adaboost_auc,0.5208287725045275
+yeast_ml8,2,30,current_mean_AdaboostNC_lambda2_auc,0.5021825396825397
+yeast_ml8,2,30,current_mean_AdaboostNC_lambda5_auc,0.5021825396825397
+yeast_ml8,2,30,current_mean_AdaboostNC_lambda8_auc,0.5021825396825397
+yeast_ml8,2,30,current_mean_AdaboostNC_lambda11_auc,0.5021825396825397
+yeast_ml8,2,30,current_mean_CUSboost_auc,0.507248285686385
+yeast_ml8,2,30,current_mean_CUSboostNC_lambda2_auc,0.5452647852811893
+yeast_ml8,2,30,current_mean_CUSboostNC_lambda5_auc,0.5224715423781369
+yeast_ml8,2,30,current_mean_CUSboostNC_lambda8_auc,0.46716244912860744
+yeast_ml8,2,30,current_mean_CUSboostNC_lambda11_auc,0.5131325819617556

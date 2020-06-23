@@ -1,0 +1,10 @@
+optical_digits,12,20,current_mean_Adaboost_auc,0.5826008606777837
+optical_digits,12,20,current_mean_AdaboostNC_lambda2_auc,nan
+optical_digits,12,20,current_mean_AdaboostNC_lambda5_auc,nan
+optical_digits,12,20,current_mean_AdaboostNC_lambda8_auc,nan
+optical_digits,12,20,current_mean_AdaboostNC_lambda11_auc,0.5815954814416353
+optical_digits,12,20,current_mean_CUSboost_auc,0.9949497343551561
+optical_digits,12,20,current_mean_CUSboostNC_lambda2_auc,nan
+optical_digits,12,20,current_mean_CUSboostNC_lambda5_auc,nan
+optical_digits,12,20,current_mean_CUSboostNC_lambda8_auc,nan
+optical_digits,12,20,current_mean_CUSboostNC_lambda11_auc,0.9044381014239014

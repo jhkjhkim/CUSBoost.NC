@@ -1,0 +1,10 @@
+wine_quality,2,50,current_mean_Adaboost_auc,0.8092401255974957
+wine_quality,2,50,current_mean_AdaboostNC_lambda2_auc,0.6158187880351188
+wine_quality,2,50,current_mean_AdaboostNC_lambda5_auc,0.6158187880351188
+wine_quality,2,50,current_mean_AdaboostNC_lambda8_auc,0.6158187880351188
+wine_quality,2,50,current_mean_AdaboostNC_lambda11_auc,0.6158187880351188
+wine_quality,2,50,current_mean_CUSboost_auc,0.7443685732391989
+wine_quality,2,50,current_mean_CUSboostNC_lambda2_auc,0.6863418296345125
+wine_quality,2,50,current_mean_CUSboostNC_lambda5_auc,0.6912436827070974
+wine_quality,2,50,current_mean_CUSboostNC_lambda8_auc,0.6714683665638066
+wine_quality,2,50,current_mean_CUSboostNC_lambda11_auc,0.6640024170511977

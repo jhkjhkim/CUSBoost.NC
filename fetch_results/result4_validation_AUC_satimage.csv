@@ -1,0 +1,10 @@
+satimage,adaboost_auc,0.970706619,0.001031939,"{'depth': 8, 'n_estimators': 450}"
+satimage,adaboost_nc_auc,0.970466406,0.001396016,"{'depth': 8, 'n_estimators': 450, 'lambda_': 0.25}"
+satimage,cusboost_auc,0.94956824,0.004294309,"{'depth': 8, 'n_estimators': 450, 'number_of_clusters': 45, 'percentage_to_choose_from_each_cluster': 0.8}"
+satimage,cusboost_nc_auc,0.962264198,0.001511588,"{'depth': 8, 'n_estimators': 450, 'number_of_clusters': 5, 'percentage_to_choose_from_each_cluster': 0.8, 'lambda_': 0.25}"
+satimage,rusboost_nc_auc,0.93204497,0.002712242,"{'depth': 8, 'n_estimators': 450}"
+,,,,
+0.970706619,0.970466406,0.94956824,0.962264198,0.93204497
+0.001031939,0.001396016,0.004294309,0.001511588,0.002712242
+,,,,
+"{'depth': 8, 'n_estimators': 450}","{'depth': 8, 'n_estimators': 450, 'lambda_': 0.25}","{'depth': 8, 'n_estimators': 450, 'number_of_clusters': 45, 'percentage_to_choose_from_each_cluster': 0.8}","{'depth': 8, 'n_estimators': 450, 'number_of_clusters': 5, 'percentage_to_choose_from_each_cluster': 0.8, 'lambda_': 0.25}","{'depth': 8, 'n_estimators': 450}"

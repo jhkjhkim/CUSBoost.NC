@@ -1,0 +1,5 @@
+yeast5,adaboost_auc,0.5,0.0,"{'depth': 8, 'n_estimators': 50}"
+yeast5,adaboost_nc_auc,0.5,0.0,"{'depth': 8, 'n_estimators': 50, 'lambda_': 0.25}"
+yeast5,cusboost_auc,0.9861431870669746,0.0030486769056192195,"{'depth': 8, 'n_estimators': 50, 'number_of_clusters': 45, 'percentage_to_choose_from_each_cluster': 0.75}"
+yeast5,cusboost_nc_auc,0.8801740984189022,0.04516685435066226,"{'depth': 8, 'n_estimators': 150, 'number_of_clusters': 45, 'percentage_to_choose_from_each_cluster': 0.25, 'lambda_': 2.25}"
+yeast5,rusboost_nc_auc,0.9512346775626221,0.05364433965519445,"{'depth': 8, 'n_estimators': 450}"

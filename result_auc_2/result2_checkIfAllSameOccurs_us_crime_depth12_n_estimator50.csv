@@ -1,0 +1,10 @@
+us_crime,12,50,current_mean_Adaboost_auc,0.5865401987353207
+us_crime,12,50,current_mean_AdaboostNC_lambda2_auc,nan
+us_crime,12,50,current_mean_AdaboostNC_lambda5_auc,nan
+us_crime,12,50,current_mean_AdaboostNC_lambda8_auc,nan
+us_crime,12,50,current_mean_AdaboostNC_lambda11_auc,0.6097633242999096
+us_crime,12,50,current_mean_CUSboost_auc,0.9044590255685165
+us_crime,12,50,current_mean_CUSboostNC_lambda2_auc,nan
+us_crime,12,50,current_mean_CUSboostNC_lambda5_auc,nan
+us_crime,12,50,current_mean_CUSboostNC_lambda8_auc,nan
+us_crime,12,50,current_mean_CUSboostNC_lambda11_auc,0.7307874936176898

@@ -1,0 +1,11 @@
+us_crime,adaboost_auc,0.915005194,0.005031545,"{'depth': 4, 'n_estimators': 450}"
+us_crime,adaboost_nc_auc,0.9201757,0.003318772,"{'depth': 8, 'n_estimators': 150, 'lambda_': 2.25}"
+us_crime,cusboost_auc,0.921404452,0.003469212,"{'depth': 8, 'n_estimators': 450, 'number_of_clusters': 5, 'percentage_to_choose_from_each_cluster': 0.5}"
+us_crime,cusboost_nc_auc,0.897237049,0.005700297,"{'depth': 4, 'n_estimators': 150, 'number_of_clusters': 15, 'percentage_to_choose_from_each_cluster': 0.8, 'lambda_': 0.25}"
+us_crime,rusboost_nc_auc,0.860767841,0.016375091,"{'depth': 8, 'n_estimators': 150}"
+,,,,
+0.915005194,0.9201757,0.921404452,0.897237049,0.860767841
+0.005031545,0.003318772,0.003469212,0.005700297,0.016375091
+,,,,
+,,,,
+"{'depth': 4, 'n_estimators': 450}","{'depth': 8, 'n_estimators': 150, 'lambda_': 2.25}","{'depth': 8, 'n_estimators': 450, 'number_of_clusters': 5, 'percentage_to_choose_from_each_cluster': 0.5}","{'depth': 4, 'n_estimators': 150, 'number_of_clusters': 15, 'percentage_to_choose_from_each_cluster': 0.8, 'lambda_': 0.25}","{'depth': 8, 'n_estimators': 150}"

@@ -1,0 +1,7 @@
+poker-9_vs_7,adaboost_auc,0.972340426,0.03089139,"{'depth': 2, 'n_estimators': 32}"
+poker-9_vs_7,adaboost_nc_auc,0.972765957,0.034185869,"{'depth': 2, 'n_estimators': 32, 'lambda_': 0.75}"
+poker-9_vs_7,cusboost_auc,0.95787234,0.044292129,"{'depth': 2, 'n_estimators': 50, 'number_of_clusters': 15, 'percentage_to_choose_from_each_cluster': 0.5}"
+poker-9_vs_7,cusboost_nc_auc,0.963404255,0.031826829,"{'depth': 2, 'n_estimators': 32, 'number_of_clusters': 5, 'percentage_to_choose_from_each_cluster': 0.2, 'lambda_': 0.75}"
+poker-9_vs_7,rusboost_nc_auc,0.793794326,0.09304327,"{'depth': 2, 'n_estimators': 450}"
+,,,,
+"{'depth': 2, 'n_estimators': 32}","{'depth': 2, 'n_estimators': 32, 'lambda_': 0.75}","{'depth': 2, 'n_estimators': 50, 'number_of_clusters': 15, 'percentage_to_choose_from_each_cluster': 0.5}","{'depth': 2, 'n_estimators': 32, 'number_of_clusters': 5, 'percentage_to_choose_from_each_cluster': 0.2, 'lambda_': 0.75}","{'depth': 2, 'n_estimators': 450}"

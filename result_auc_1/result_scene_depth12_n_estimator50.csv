@@ -1,0 +1,10 @@
+scene,12,50,current_mean_Adaboost_auc,0.6871197238237597
+scene,12,50,current_mean_AdaboostNC_lambda2_auc,0.5995044131254893
+scene,12,50,current_mean_AdaboostNC_lambda5_auc,0.5910943839419177
+scene,12,50,current_mean_AdaboostNC_lambda8_auc,0.5800357676702967
+scene,12,50,current_mean_AdaboostNC_lambda11_auc,0.5924816712933305
+scene,12,50,current_mean_CUSboost_auc,0.7137910171542459
+scene,12,50,current_mean_CUSboostNC_lambda2_auc,0.6001615773364652
+scene,12,50,current_mean_CUSboostNC_lambda5_auc,0.583923588867535
+scene,12,50,current_mean_CUSboostNC_lambda8_auc,0.6217487009751583
+scene,12,50,current_mean_CUSboostNC_lambda11_auc,0.573981956011104

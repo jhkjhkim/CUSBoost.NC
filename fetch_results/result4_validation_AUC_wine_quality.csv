@@ -1,0 +1,10 @@
+wine_quality,adaboost_auc,0.868112885,0.009162165,"{'depth': 8, 'n_estimators': 450}"
+wine_quality,adaboost_nc_auc,0.885409832,0.006301001,"{'depth': 8, 'n_estimators': 450, 'lambda_': 6.75}"
+wine_quality,cusboost_auc,0.723172515,0.010163782,"{'depth': 2, 'n_estimators': 50, 'number_of_clusters': 45, 'percentage_to_choose_from_each_cluster': 0.5}"
+wine_quality,cusboost_nc_auc,0.852516711,0.012926387,"{'depth': 8, 'n_estimators': 50, 'number_of_clusters': 45, 'percentage_to_choose_from_each_cluster': 0.2, 'lambda_': 0.75}"
+wine_quality,rusboost_nc_auc,0.666073295,0.020625384,"{'depth': 2, 'n_estimators': 32}"
+,,,,
+0.868112885,0.885409832,0.723172515,0.852516711,0.666073295
+0.009162165,0.006301001,0.010163782,0.012926387,0.020625384
+,,,,
+"{'depth': 8, 'n_estimators': 450}","{'depth': 8, 'n_estimators': 450, 'lambda_': 6.75}","{'depth': 2, 'n_estimators': 50, 'number_of_clusters': 45, 'percentage_to_choose_from_each_cluster': 0.5}","{'depth': 8, 'n_estimators': 50, 'number_of_clusters': 45, 'percentage_to_choose_from_each_cluster': 0.2, 'lambda_': 0.75}","{'depth': 2, 'n_estimators': 32}"
